@@ -1,6 +1,6 @@
 {
 	"dataFileVersion": "1.0",
-	"dailyBodhFileVersion": "1.0",
+	"dailyBodhFileVersion": "1.1",
 	"android": {
 		"minAppVersion": "1.0.0",
 		"maxAppVersion": "1.0.0"
